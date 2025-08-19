@@ -11,3 +11,6 @@ after activation terminal will be signed with (new_env) C:\...
 ## Deactivating virtual enviroment
 <b>deactivate</b>
 
+## Under virtual enviroment
+when you are under activated virutal enviroment you can use this commands
+
