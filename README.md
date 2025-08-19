@@ -5,5 +5,5 @@
 </br>where new_env is just a name of virutal enviroment
 
 ## Activating virutal enviroment
-<b>new_env\Scripts\activate<\b>
+<b>new_env\Scripts\activate</b>
 
