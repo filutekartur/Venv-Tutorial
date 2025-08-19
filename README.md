@@ -14,3 +14,8 @@ after activation terminal will be signed with (new_env) C:\...
 ## Under virtual enviroment
 when you are under activated virutal enviroment you can use this commands
 
+### pip list
+showing installed packages under this virutal enviroment
+
+### pip install requests
+installing package under this virutal enviroment
