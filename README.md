@@ -30,3 +30,7 @@ saves current dependencies under this virtual enviroment (packages that are inst
 ### to run scripts/projects using modules that were installed in virtual enviroment:
 activate virtual enviroment in cmd and run script. 
 when you dont have specific module in global scope then this script will throw an error
+Vsc have ability to switch between python interpreters (virtual/global) to run using button from specific enviroment
+
+### deleting virutal enviroment:
+just delete main venv folder
