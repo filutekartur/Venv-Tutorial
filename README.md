@@ -19,6 +19,8 @@ showing installed packages under this virutal enviroment
 
 ### pip install requests
 installing package under this virutal enviroment
+#### pip install -r requirements.txt
+installing packages from txt file
 
 ### pip freeze > requirements.txt
 saves current dependencies under this virtual enviroment (packages that are installed in this venv)
