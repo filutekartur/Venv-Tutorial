@@ -24,3 +24,5 @@ installing packages from txt file
 
 ### pip freeze > requirements.txt
 saves current dependencies under this virtual enviroment (packages that are installed in this venv)
+
+## Info:
