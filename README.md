@@ -26,3 +26,7 @@ installing packages from txt file
 saves current dependencies under this virtual enviroment (packages that are installed in this venv)
 
 ## Info:
+
+### to run scripts/projects using modules that were installed in virtual enviroment:
+activate virtual enviroment in cmd and run script. 
+when you dont have specific module in global scope then this script will throw an error
